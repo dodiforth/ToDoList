@@ -8,4 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
+    //Tasks to accomplish:
+    //Build the main activity UI
+    //Build an add item page UI
 }
