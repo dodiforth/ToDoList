@@ -51,7 +51,6 @@
         android:gravity="center"
         android:backgroundTint="@color/black"
         android:textColor="@color/white"
-
-         />
+        android:onClick="navToAddItemAction"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
